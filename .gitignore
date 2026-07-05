@@ -1,0 +1,6 @@
+/.direnv
+/target
+/var
+/.cargo/
+/result
+/result-*
